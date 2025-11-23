@@ -1,6 +1,4 @@
 # gb-dots
-cat > README.md << 'EOF'
-# gb-dots
 Минималистичные .bashrc и .vimrc
 
 - Один промпт: `$ `
