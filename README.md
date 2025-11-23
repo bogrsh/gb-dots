@@ -1,6 +1,8 @@
 # gb-dots
 Минималистичные .bashrc и .vimrc
 
+![shell demo](shell.gif)
+
 - Один промпт: `$ `
 - 4 пробела
 - vi-mode везде
